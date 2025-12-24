@@ -1,15 +1,62 @@
 {
   "title": "Operation Midnight Sun",
   "cards": [
-    {
-      "id": "C1",
-      "image": "images/C1.jpg",
-      "tags": ["Clubs", "Ace"]
-    },
-    {
-      "id": "CK",
-      "image": "images/CK.jpg",
-      "tags": ["Clubs", "King"]
-    }
+    { "id": "J1", "image": "images/J1.jpg", "tags": ["Joker", "1"] }
+    
+    { "id": "CA", "image": "images/CA.jpg", "tags": ["Clubs", "Ace"] },
+    { "id": "C2", "image": "images/C2.jpg", "tags": ["Clubs", "2"] },
+    { "id": "C3", "image": "images/C3.jpg", "tags": ["Clubs", "3"] },
+    { "id": "C4", "image": "images/C4.jpg", "tags": ["Clubs", "4"] },
+    { "id": "C5", "image": "images/C5.jpg", "tags": ["Clubs", "5"] },
+    { "id": "C6", "image": "images/C6.jpg", "tags": ["Clubs", "6"] },
+    { "id": "C7", "image": "images/C7.jpg", "tags": ["Clubs", "7"] },
+    { "id": "C8", "image": "images/C8.jpg", "tags": ["Clubs", "8"] },
+    { "id": "C9", "image": "images/C9.jpg", "tags": ["Clubs", "9"] },
+    { "id": "C10", "image": "images/C10.jpg", "tags": ["Clubs", "10"] },
+    { "id": "CJ", "image": "images/CJ.jpg", "tags": ["Clubs", "Jack"] },
+    { "id": "CQ", "image": "images/CQ.jpg", "tags": ["Clubs", "Queen"] },
+    { "id": "CK", "image": "images/CK.jpg", "tags": ["Clubs", "King"] },
+
+    { "id": "DA", "image": "images/DA.jpg", "tags": ["Diamonds", "Ace"] },
+    { "id": "D2", "image": "images/D2.jpg", "tags": ["Diamonds", "2"] },
+    { "id": "D3", "image": "images/D3.jpg", "tags": ["Diamonds", "3"] },
+    { "id": "D4", "image": "images/D4.jpg", "tags": ["Diamonds", "4"] },
+    { "id": "D5", "image": "images/D5.jpg", "tags": ["Diamonds", "5"] },
+    { "id": "D6", "image": "images/D6.jpg", "tags": ["Diamonds", "6"] },
+    { "id": "D7", "image": "images/D7.jpg", "tags": ["Diamonds", "7"] },
+    { "id": "D8", "image": "images/D8.jpg", "tags": ["Diamonds", "8"] },
+    { "id": "D9", "image": "images/D9.jpg", "tags": ["Diamonds", "9"] },
+    { "id": "D10", "image": "images/D10.jpg", "tags": ["Diamonds", "10"] },
+    { "id": "DJ", "image": "images/DJ.jpg", "tags": ["Diamonds", "Jack"] },
+    { "id": "DQ", "image": "images/DQ.jpg", "tags": ["Diamonds", "Queen"] },
+    { "id": "DK", "image": "images/DK.jpg", "tags": ["Diamonds", "King"] },
+
+    { "id": "HA", "image": "images/HA.jpg", "tags": ["Hearts", "Ace"] },
+    { "id": "H2", "image": "images/H2.jpg", "tags": ["Hearts", "2"] },
+    { "id": "H3", "image": "images/H3.jpg", "tags": ["Hearts", "3"] },
+    { "id": "H4", "image": "images/H4.jpg", "tags": ["Hearts", "4"] },
+    { "id": "H5", "image": "images/H5.jpg", "tags": ["Hearts", "5"] },
+    { "id": "H6", "image": "images/H6.jpg", "tags": ["Hearts", "6"] },
+    { "id": "H7", "image": "images/H7.jpg", "tags": ["Hearts", "7"] },
+    { "id": "H8", "image": "images/H8.jpg", "tags": ["Hearts", "8"] },
+    { "id": "H9", "image": "images/H9.jpg", "tags": ["Hearts", "9"] },
+    { "id": "H10", "image": "images/H10.jpg", "tags": ["Hearts", "10"] },
+    { "id": "HJ", "image": "images/HJ.jpg", "tags": ["Hearts", "Jack"] },
+    { "id": "HQ", "image": "images/HQ.jpg", "tags": ["Hearts", "Queen"] },
+    { "id": "HK", "image": "images/HK.jpg", "tags": ["Hearts", "King"] },
+
+    { "id": "SA", "image": "images/SA.jpg", "tags": ["Spades", "Ace"] },
+    { "id": "S2", "image": "images/S2.jpg", "tags": ["Spades", "2"] },
+    { "id": "S3", "image": "images/S3.jpg", "tags": ["Spades", "3"] },
+    { "id": "S4", "image": "images/S4.jpg", "tags": ["Spades", "4"] },
+    { "id": "S5", "image": "images/S5.jpg", "tags": ["Spades", "5"] },
+    { "id": "S6", "image": "images/S6.jpg", "tags": ["Spades", "6"] },
+    { "id": "S7", "image": "images/S7.jpg", "tags": ["Spades", "7"] },
+    { "id": "S8", "image": "images/S8.jpg", "tags": ["Spades", "8"] },
+    { "id": "S9", "image": "images/S9.jpg", "tags": ["Spades", "9"] },
+    { "id": "S10", "image": "images/S10.jpg", "tags": ["Spades", "10"] },
+    { "id": "SJ", "image": "images/SJ.jpg", "tags": ["Spades", "Jack"] },
+    { "id": "SQ", "image": "images/SQ.jpg", "tags": ["Spades", "Queen"] },
+    { "id": "SK", "image": "images/SK.jpg", "tags": ["Spades", "King"] }
   ]
 }
