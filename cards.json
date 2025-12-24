@@ -1,7 +1,7 @@
 {
   "title": "Operation Midnight Sun",
   "cards": [
-    { "id": "J1", "image": "images/J1.jpg", "tags": ["Joker", "1"] }
+    { "id": "J1", "image": "images/J1.jpg", "tags": ["Joker", "1"] },
     
     { "id": "CA", "image": "images/CA.jpg", "tags": ["Clubs", "Ace"] },
     { "id": "C2", "image": "images/C2.jpg", "tags": ["Clubs", "2"] },
