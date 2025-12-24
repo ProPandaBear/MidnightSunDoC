@@ -1,0 +1,15 @@
+{
+  "title": "Operation Midnight Sun",
+  "cards": [
+    {
+      "id": "C1",
+      "image": "images/C1.jpg",
+      "tags": ["Clubs", "Ace"],
+    },
+    {
+      "id": "CK",
+      "image": "images/CK.jpg",
+      "tags": ["Clubs", "King"],
+    }
+  ]
+}
